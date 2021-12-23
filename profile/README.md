@@ -1,10 +1,8 @@
 # OPAD - A Collaborative Text Editor
 Distributed text editors are commonly used to support collaborative editing for software or document development. However, many existing solutions work with documents on the server; they do not support direct collaboration between two clients working with locally stored documents. 
-
-**We propose a distributed text editor for real-time collaboration that stores the files locally.**
-
 Refer to this [document](https://github.com/O-Pad/.github/blob/main/DSCD%20Project%20Slides.pdf) for more details. 
 
+**We propose a distributed text editor for real-time collaboration that stores the files locally.**
 
 ## Architecture
 
@@ -26,6 +24,9 @@ It manages message exchanges, for client-client communication.
 
 ## Tech Stack
 ![](https://github.com/O-Pad/.github/blob/main/profile/images/3.png)
+
+---
+This project was done by [Paras Mehan](https://github.com/parasmehan123/), [Osheen Sachdev](https://github.com/oshhh), [Adwit Singh Kochar](https://github.com/adwitsingh) and [Dushyant Panchal](https://github.com/dushyant18033) as a course group project in Distributed Systems: Concepts and Design with [Dr. Pushpendra Singh](https://www.iiitd.ac.in/pushpendra) at IIIT Delhi during Monsoon 2021 Semester.
 
 
 
