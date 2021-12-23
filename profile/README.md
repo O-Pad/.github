@@ -14,7 +14,7 @@ O-Pad client is the application running on the user side that manages the text e
 ### Message Broker 
 Maintains exchanges for each file being edited live and a queue for each user. 
 
-![](images/1.png)
+![](https://github.com/O-Pad/.github/blob/main/profile/images/1.png)
 
 ### File Tracker
 Maintains a map of files and the list of online O-Pad clients working on that file, i.e. the collaborators. Facilitates joining for the first time.
@@ -22,10 +22,10 @@ Maintains a map of files and the list of online O-Pad clients working on that fi
 ### RabbitMQ Server
 It manages message exchanges, for client-client communication.
 
-![](images/2.png)
+![](https://github.com/O-Pad/.github/blob/main/profile/images/2.png)
 
 ## Tech Stack
-![](images/3.png)
+![](https://github.com/O-Pad/.github/blob/main/profile/images/3.png)
 
 
 
